@@ -1,0 +1,9 @@
+flask
+validators
+requests
+bs4
+slack_sdk
+aiohttp
+python-dotenv
+functions-framework
+slack_bolt
